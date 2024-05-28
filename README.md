@@ -1,8 +1,6 @@
 
 [![b4db1r3's GitHub | Languages Over Time](https://stats.quine.sh/b4db1r3/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=b4db1r3)
 
-[![b4db1r3's GitHub | Stats](https://stats.quine.sh/b4db1r3/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=b4db1r3)
-
 
 <h1 align="center">Hi 👋, I'm b4db1r3</h1>
 <h3 align="center">a passionate iOS developer and tweak enthusiast, love to jailbreak every device, not just iPhone.</h3>
